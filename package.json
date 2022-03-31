@@ -1,0 +1,10 @@
+{
+  "name": "order-summary-component",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "sass": "^1.49.10"
+  },
+  "scripts": {
+    "scss": "sass --watch scss/main.scss/:styles/main.css"
+  }
+}
